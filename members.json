@@ -1,0 +1,41 @@
+[
+    {
+        "id": "1",
+        "firstname": "Shohruz",
+        "lastname": "Toxtanarov",
+        "address": "Sirdaryo",
+        "gender": null
+    },
+    {
+        "id": "2",
+        "firstname": "Sardor",
+        "lastname": "Erkinov",
+        "address": "Baxt",
+        "gender": null
+    },
+    {
+        "id": "3",
+        "firstname": "Faxriddin",
+        "lastname": "Sultonov",
+        "address": "Baxmal",
+        "gender": null
+    },
+    {
+        "id": "5",
+        "firstname": "Odil",
+        "lastname": "OIdilov",
+        "address": "Sirdaryo"
+    },
+    {
+        "id": "6",
+        "firstname": "Murod",
+        "lastname": "Qodirov",
+        "address": "Sirdaryo"
+    },
+    {
+        "id": "7",
+        "firstname": "Azamat",
+        "lastname": "Qodirov",
+        "address": "Sirdaryo"
+    }
+]
